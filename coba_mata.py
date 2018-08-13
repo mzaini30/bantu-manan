@@ -16,9 +16,11 @@ buka = 0
 kedip = 0
 
 while(True): 
+
   ret, frame = kamera.read()
   gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
   wajah = deteksi_wajah.detectMultiScale(gray,scaleFactor = 1.1, minNeighbors=1, minSize=(10,10))
+
   for (x,y,w,h) in wajah:
         
     roi_gray = gray[y:y+h, x:x+w]
@@ -34,6 +36,9 @@ while(True):
 
       print("--- %s seconds MATA TERTUTUP---" % (time.time() - start_time))
       if hitung >= 1000:
+
+        # mata tertutup 1000 kali baru dibilang ngantuk?
+
         print ("Ngantuk")
     else:
       hitung = 0
