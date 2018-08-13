@@ -1,1 +1,1 @@
-# bantu-manan
+Repositori ini bertujuan untuk membantu Manan dalam menyelesaikan aplikasi pendeteksi mata

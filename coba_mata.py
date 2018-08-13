@@ -4,7 +4,7 @@ import time
 deteksi_mata = cv2.CascadeClassifier('haarcascade_eye.xml')
 deteksi_wajah = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
-kamera = cv2.VideoCapture(1)
+kamera = cv2.VideoCapture(0)
 hitung = 0
 buka = 0
 kedip = 0
