@@ -1,0 +1,273 @@
+(process:4641): GStreamer-CRITICAL **: 18:51:22.436: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+Mata Terbuka
+--- 7.557868957519531e-05 seconds ---
+Durasi Mata Tertutup ==========>  1
+jumlah kedipan ==========================> 1
+
+
+--- 0.00010180473327636719 seconds ---
+Mata Terbuka
+--- 5.936622619628906e-05 seconds ---
+Mata Terbuka
+--- 6.031990051269531e-05 seconds ---
+Mata Terbuka
+--- 6.628036499023438e-05 seconds ---
+Mata Terbuka
+--- 6.127357482910156e-05 seconds ---
+Mata Terbuka
+--- 6.127357482910156e-05 seconds ---
+Mata Terbuka
+--- 7.224082946777344e-05 seconds ---
+Mata Terbuka
+--- 6.914138793945312e-05 seconds ---
+Mata Terbuka
+--- 6.222724914550781e-05 seconds ---
+Mata Terbuka
+--- 5.841255187988281e-05 seconds ---
+Mata Terbuka
+--- 5.936622619628906e-05 seconds ---
+Mata Terbuka
+--- 5.817413330078125e-05 seconds ---
+Mata Terbuka
+--- 6.461143493652344e-05 seconds ---
+Mata Terbuka
+--- 6.175041198730469e-05 seconds ---
+Durasi Mata Tertutup ==========>  1
+jumlah kedipan ==========================> 2
+
+
+--- 9.989738464355469e-05 seconds ---
+Mata Terbuka
+--- 6.222724914550781e-05 seconds ---
+Mata Terbuka
+--- 6.175041198730469e-05 seconds ---
+Mata Terbuka
+--- 5.91278076171875e-05 seconds ---
+Mata Terbuka
+--- 6.031990051269531e-05 seconds ---
+Mata Terbuka
+--- 6.008148193359375e-05 seconds ---
+Mata Terbuka
+--- 5.91278076171875e-05 seconds ---
+Mata Terbuka
+--- 6.008148193359375e-05 seconds ---
+Mata Terbuka
+--- 6.198883056640625e-05 seconds ---
+Durasi Mata Tertutup ==========>  1
+jumlah kedipan ==========================> 3
+
+
+--- 4.982948303222656e-05 seconds ---
+Durasi Mata Tertutup ==========>  2
+--- 6.198883056640625e-05 seconds ---
+Mata Terbuka
+--- 5.9604644775390625e-05 seconds ---
+Mata Terbuka
+--- 6.341934204101562e-05 seconds ---
+Mata Terbuka
+--- 6.4849853515625e-05 seconds ---
+Mata Terbuka
+--- 6.031990051269531e-05 seconds ---
+Mata Terbuka
+--- 6.29425048828125e-05 seconds ---
+Mata Terbuka
+--- 6.556510925292969e-05 seconds ---
+Mata Terbuka
+--- 6.151199340820312e-05 seconds ---
+Mata Terbuka
+--- 6.318092346191406e-05 seconds ---
+Mata Terbuka
+--- 7.486343383789062e-05 seconds ---
+Mata Terbuka
+--- 7.128715515136719e-05 seconds ---
+Mata Terbuka
+--- 7.2479248046875e-05 seconds ---
+Mata Terbuka
+--- 0.00011134147644042969 seconds ---
+Durasi Mata Tertutup ==========>  1
+jumlah kedipan ==========================> 4
+
+
+--- 4.649162292480469e-05 seconds ---
+Durasi Mata Tertutup ==========>  2
+--- 5.936622619628906e-05 seconds ---
+Mata Terbuka
+--- 6.151199340820312e-05 seconds ---
+Mata Terbuka
+--- 6.008148193359375e-05 seconds ---
+Mata Terbuka
+--- 5.936622619628906e-05 seconds ---
+Mata Terbuka
+--- 6.771087646484375e-05 seconds ---
+Mata Terbuka
+--- 5.91278076171875e-05 seconds ---
+Mata Terbuka
+--- 6.222724914550781e-05 seconds ---
+Mata Terbuka
+--- 6.198883056640625e-05 seconds ---
+Mata Terbuka
+--- 6.794929504394531e-05 seconds ---
+Mata Terbuka
+--- 6.580352783203125e-05 seconds ---
+Mata Terbuka
+--- 6.508827209472656e-05 seconds ---
+Mata Terbuka
+--- 6.198883056640625e-05 seconds ---
+Mata Terbuka
+--- 6.556510925292969e-05 seconds ---
+Mata Terbuka
+--- 6.29425048828125e-05 seconds ---
+Mata Terbuka
+--- 6.031990051269531e-05 seconds ---
+Mata Terbuka
+--- 6.0558319091796875e-05 seconds ---
+Mata Terbuka
+--- 6.008148193359375e-05 seconds ---
+Mata Terbuka
+--- 5.9604644775390625e-05 seconds ---
+Mata Terbuka
+--- 8.130073547363281e-05 seconds ---
+Mata Terbuka
+--- 5.9604644775390625e-05 seconds ---
+Mata Terbuka
+--- 6.079673767089844e-05 seconds ---
+Mata Terbuka
+--- 6.628036499023438e-05 seconds ---
+Durasi Mata Tertutup ==========>  1
+jumlah kedipan ==========================> 5
+
+
+--- 9.799003601074219e-05 seconds ---
+Mata Terbuka
+--- 6.127357482910156e-05 seconds ---
+Mata Terbuka
+--- 6.318092346191406e-05 seconds ---
+Mata Terbuka
+--- 6.0558319091796875e-05 seconds ---
+Mata Terbuka
+--- 6.604194641113281e-05 seconds ---
+Mata Terbuka
+--- 6.747245788574219e-05 seconds ---
+Mata Terbuka
+--- 6.604194641113281e-05 seconds ---
+Mata Terbuka
+--- 6.604194641113281e-05 seconds ---
+Mata Terbuka
+--- 6.556510925292969e-05 seconds ---
+Mata Terbuka
+--- 6.246566772460938e-05 seconds ---
+Mata Terbuka
+--- 5.936622619628906e-05 seconds ---
+Mata Terbuka
+--- 6.914138793945312e-05 seconds ---
+Mata Terbuka
+--- 5.936622619628906e-05 seconds ---
+Mata Terbuka
+--- 6.031990051269531e-05 seconds ---
+Mata Terbuka
+--- 6.198883056640625e-05 seconds ---
+Mata Terbuka
+--- 6.318092346191406e-05 seconds ---
+Mata Terbuka
+--- 6.461143493652344e-05 seconds ---
+Mata Terbuka
+--- 6.699562072753906e-05 seconds ---
+Durasi Mata Tertutup ==========>  1
+jumlah kedipan ==========================> 6
+
+
+--- 8.249282836914062e-05 seconds ---
+Durasi Mata Tertutup ==========>  2
+--- 6.604194641113281e-05 seconds ---
+Durasi Mata Tertutup ==========>  3
+--- 6.508827209472656e-05 seconds ---
+Durasi Mata Tertutup ==========>  4
+Ngantuk
+--- 3.647804260253906e-05 seconds ---
+Durasi Mata Tertutup ==========>  5
+Ngantuk
+--- 7.987022399902344e-05 seconds ---
+Durasi Mata Tertutup ==========>  6
+Ngantuk
+--- 8.821487426757812e-05 seconds ---
+Mata Terbuka
+--- 6.175041198730469e-05 seconds ---
+Mata Terbuka
+--- 6.341934204101562e-05 seconds ---
+Mata Terbuka
+--- 6.723403930664062e-05 seconds ---
+Mata Terbuka
+--- 5.91278076171875e-05 seconds ---
+Durasi Mata Tertutup ==========>  1
+jumlah kedipan ==========================> 7
+
+
+--- 4.673004150390625e-05 seconds ---
+Mata Terbuka
+--- 5.8650970458984375e-05 seconds ---
+Mata Terbuka
+--- 6.031990051269531e-05 seconds ---
+Mata Terbuka
+--- 6.127357482910156e-05 seconds ---
+Mata Terbuka
+--- 6.4849853515625e-05 seconds ---
+Mata Terbuka
+--- 6.890296936035156e-05 seconds ---
+Mata Terbuka
+--- 6.198883056640625e-05 seconds ---
+Durasi Mata Tertutup ==========>  1
+jumlah kedipan ==========================> 8
+
+
+--- 0.00010156631469726562 seconds ---
+Mata Terbuka
+--- 5.7697296142578125e-05 seconds ---
+Durasi Mata Tertutup ==========>  1
+jumlah kedipan ==========================> 9
+
+
+--- 7.939338684082031e-05 seconds ---
+Mata Terbuka
+--- 5.984306335449219e-05 seconds ---
+Mata Terbuka
+--- 6.508827209472656e-05 seconds ---
+Mata Terbuka
+--- 6.699562072753906e-05 seconds ---
+Mata Terbuka
+--- 6.437301635742188e-05 seconds ---
+Mata Terbuka
+--- 6.461143493652344e-05 seconds ---
+Mata Terbuka
+--- 6.914138793945312e-05 seconds ---
+Mata Terbuka
+--- 5.984306335449219e-05 seconds ---
+Mata Terbuka
+--- 6.29425048828125e-05 seconds ---
+Mata Terbuka
+--- 6.0558319091796875e-05 seconds ---
+Mata Terbuka
+--- 5.8650970458984375e-05 seconds ---
+Mata Terbuka
+--- 5.984306335449219e-05 seconds ---
+Durasi Mata Tertutup ==========>  1
+jumlah kedipan ==========================> 10
+
+
+--- 0.000102996826171875 seconds ---
+Mata Terbuka
+--- 9.965896606445312e-05 seconds ---
+Mata Terbuka
+--- 5.8650970458984375e-05 seconds ---
+Mata Terbuka
+--- 6.151199340820312e-05 seconds ---
+Durasi Mata Tertutup ==========>  1
+jumlah kedipan ==========================> 11
+
+
+--- 0.00011038780212402344 seconds ---
+Mata Terbuka
+--- 5.8650970458984375e-05 seconds ---
+Mata Terbuka
+--- 6.461143493652344e-05 seconds ---
+Mata Terbuka
+--- 6.67572021484375e-05 seconds ---
